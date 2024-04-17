@@ -354,7 +354,7 @@ footer .container .row .line-2-left h2{
 }
 
 footer .container .row .line-2-middle span{
-    height: 5px;
+    height: 3px;
     width: 100%;
     background-color: var(--brandColor);
     border-radius: 8px;
